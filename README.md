@@ -1,4 +1,5 @@
-### Hi there 👋
+
+### No record, No life
 
 [![Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanjongp)](https://github.com/anuraghazra/github-readme-stats)
 
