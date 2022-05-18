@@ -4,8 +4,8 @@
 
 <br>
 - 🔭 &nbsp;I’m enthusiast of communicating with others. <br>
-- 🌱 &nbsp;I’m currently studying TDD Development Process! <br>
-- 📫 &nbsp;Contact: pcj0198@daum.net <br>
+<!-- - 🌱 &nbsp;I’m currently studying DDD <br> -->
+- 📫 &nbsp;Contact: me@chanjongp.co.kr <br>
 - 👨‍💻 &nbsp;Hope to talk with you guys wathing on my Github. <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChanjongp%2Fhit-counter&count_bg=%234682B4&title_bg=%230081CC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
