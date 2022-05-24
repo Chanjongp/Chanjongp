@@ -19,7 +19,7 @@
 <br>
 <p>
 <a href="https://medium.com/chanjongs-programming-diary"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a> &nbsp
-<a href="https://chanjongp.notion.site/Chanjong-Park-05156bca9f9145f09cf799bcdf5660ff"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/></a> &nbsp
+<a href="https://me.chanjongp.co.kr"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/></a> &nbsp
 </br>
 
 <h2><b>Tech Stack</b></h2>
